@@ -1,1 +1,13 @@
+Flask==2.2.2
+paho-mqtt==1.6.1
+
+
+sudo apt install -y mosquitto mosquitto-clients
+sudo systemctl enable mosquitto
+
+sudo apt install -y python3 python3-pip
+
+pip3 install paho-mqtt flask flask_sqlalchemy
+
+sudo apt install -y sqlite3
 

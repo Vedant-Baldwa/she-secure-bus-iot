@@ -203,9 +203,9 @@ python3 server.py
 
   ![System Architecture](diagrams/system_architecture.png)
 
-- **Wiring Diagram**
+- **Image**
 
-  ![Wiring Diagram](diagrams/wiring_diagram.png)
+  (images/3.png)
 
 - **Web Dashboard**
 

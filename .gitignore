@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Flask debug SQLite file
+database.db
+
+# Arduino build files
+*.build/
+*.elf
+*.bin
+
+# VSCode or other editor
+.vscode/
+.idea/
+
+# Mac OS files
+.DS_Store
+
+# Logs
+*.log

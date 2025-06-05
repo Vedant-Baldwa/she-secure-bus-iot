@@ -205,7 +205,7 @@ python3 server.py
 
 - **Image**
 
-  ![Image](images/3.png)
+  ![Image](images/3.jpg)
 
 - **Web Dashboard**
 

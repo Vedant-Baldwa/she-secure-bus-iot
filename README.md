@@ -181,7 +181,7 @@ python3 server.py
 ```
 
 ---
-## 🚀 Usage
+##  Usage
 
 - Power on your Raspberry Pi and ESP32
 - On browser, open:  
@@ -197,7 +197,7 @@ python3 server.py
 
 ---
 
-## 🖼️ Screenshots & Diagrams
+##  Screenshots & Diagrams
 
 - **System Architecture**
 
